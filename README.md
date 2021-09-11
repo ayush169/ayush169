@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, MERN, Deep learning, Recommendation Systems.
 - 🌱 I’m currently learning React and MERN Stack.
 - 💞️ I’m looking to collaborate on a React Project
-- 📫 You can contact me by emial (ayushdubeydps@gmail.com)
+- 📫 You can contact me by email (ayushdubeydps@gmail.com)
 
 <!---
 ayush169/ayush169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
